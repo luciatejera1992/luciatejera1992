@@ -58,7 +58,7 @@ Each repository includes clear documentation, visual outputs, and business-focus
 
 ## 🎓 Education & Applied Training
 
-### Upgrade Hub — Madrid  
+### Upgrade Hub
 **Specialized Training in Data Analytics**
 
 - Development of real-world academic projects
@@ -94,7 +94,7 @@ To join a **Junior Data Analyst / BI Analyst** role in a company where:
 
 ## 📬 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://linkedin.com/in/lucia-tejera
 - 💻 GitHub: https://github.com/luciatejera1992  
 
 ---
