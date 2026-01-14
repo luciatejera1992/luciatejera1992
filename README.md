@@ -97,14 +97,3 @@ To join a **Junior Data Analyst / BI Analyst** role in a company where:
 - 💼 LinkedIn: https://linkedin.com/in/lucia-tejera
 - 💻 GitHub: https://github.com/luciatejera1992  
 
----
-
-⭐ *Thank you for visiting my profile. I am open to new professional opportunities and collaborations.*
-
-
-## 📫 Conecta conmigo:
-* https://www.linkedin.com/in/lucia-tejera/
-* luciatejera1992@gmail.com
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
