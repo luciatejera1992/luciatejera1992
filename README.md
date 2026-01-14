@@ -1,4 +1,3 @@
-# luciatejera1992-README.md
 
 #  Lucía Tejera 
 ### Data Analyst Junior | Especialista en Visualización y Ecosistema Microsoft
