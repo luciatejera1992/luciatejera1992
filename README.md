@@ -1,4 +1,4 @@
-#  Lucía Tejera   -  Data Analysis 
+#  Lucía Tejera   -  Data Analyst
 
 🎯 **Junior Data Analyst** focused on data analysis, visualization, and business-oriented insights.
 
