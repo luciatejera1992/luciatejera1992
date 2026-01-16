@@ -1,13 +1,13 @@
 #  Lucía Tejera   -  Data Analyst
 
-🎯 **Junior Data Analyst** focused on data analysis, visualization, and business-oriented insights.
+ **Junior Data Analyst** focused on data analysis, visualization, and business-oriented insights.
 
 I have a strong technical foundation combined with professional experience in high-demand environments, which allows me to approach data projects with rigor, structure, and a practical mindset.  
 My goal is to join a **high-value company in Spain** as a **Junior Data Analyst / BI Analyst**, where data plays a key role in decision-making.
 
 ---
 
-## 🧠 Professional Profile
+##  Professional Profile
 
 Data Analyst with hands-on training and experience in **real academic projects**, specialized in:
 
@@ -43,7 +43,7 @@ My previous professional background has strengthened key transferable skills suc
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 In this GitHub profile you will find projects focused on **real-world data analysis and visualization**, including:
 
@@ -56,7 +56,7 @@ Each repository includes clear documentation, visual outputs, and business-focus
 
 ---
 
-## 🎓 Education & Applied Training
+##  Education & Applied Training
 
 ### Upgrade Hub
 **Specialized Training in Data Analytics**
@@ -69,7 +69,7 @@ Each repository includes clear documentation, visual outputs, and business-focus
 
 ---
 
-## 💼 Previous Professional Experience (Added Value)
+##  Previous Professional Experience (Added Value)
 
 My previous experience in customer-facing and service-oriented roles brings strong value to data teams:
 
@@ -82,7 +82,7 @@ These skills complement my technical profile and enhance collaboration within mu
 
 ---
 
-## 🚀 Career Objective
+## Career Objective
 
 To join a **Junior Data Analyst / BI Analyst** role in a company where:
 
@@ -92,8 +92,8 @@ To join a **Junior Data Analyst / BI Analyst** role in a company where:
 
 ---
 
-## 📬 Contact
+##  Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/lucia-tejera
-- 💻 GitHub: https://github.com/luciatejera1992  
+-  LinkedIn: https://linkedin.com/in/lucia-tejera
+-  GitHub: https://github.com/luciatejera1992  
 
