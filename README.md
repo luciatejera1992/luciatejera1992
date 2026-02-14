@@ -21,7 +21,7 @@ My previous professional background has strengthened key transferable skills suc
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming & Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,10 +47,10 @@ My previous professional background has strengthened key transferable skills suc
 
 In this GitHub profile you will find projects focused on **real-world data analysis and visualization**, including:
 
-- 📈 **Exploratory Data Analysis (EDA)** on business-oriented datasets  
-- 📊 **Power BI dashboards** with KPIs and executive reporting  
-- 🚢 **Interactive Streamlit applications** for data exploration and storytelling  
-- 🧹 Data cleaning, transformation, and preparation workflows  
+-  **Exploratory Data Analysis (EDA)** on business-oriented datasets  
+-  **Power BI dashboards** with KPIs and executive reporting  
+-  **Interactive Streamlit applications** for data exploration and storytelling  
+-  Data cleaning, transformation, and preparation workflows  
 
 Each repository includes clear documentation, visual outputs, and business-focused conclusions.
 
