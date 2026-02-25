@@ -1,10 +1,12 @@
 #  Lucía Tejera   -  Data Analyst
 
- **Junior Data Analyst** focused on data analysis, visualization, and business-oriented insights.
+Junior Data Analyst | Data Visualization | Business Intelligence
 
-I have a strong technical foundation combined with professional experience in high-demand environments, which allows me to approach data projects with rigor, structure, and a practical mindset.  
-My goal is to join a **high-value company in Spain** as a **Junior Data Analyst / BI Analyst**, where data plays a key role in decision-making.
+I am a Junior Data Analyst focused on transforming data into clear insights that support business decisions. My work combines data analysis, visualization, and structured problem solving using modern analytics tools.
 
+My background includes hands-on technical training and professional experience in demanding environments, which allows me to approach data projects with rigor, organization, and a practical mindset.
+
+I am currently seeking an opportunity as a Junior Data Analyst or BI Analyst where I can contribute, continue learning, and grow within a data-driven team.
 ---
 
 ##  Professional Profile
@@ -69,7 +71,7 @@ Each repository includes clear documentation, visual outputs, and business-focus
 
 ---
 
-##  Previous Professional Experience (Added Value)
+##  Previous Professional Experience
 
 My previous experience in customer-facing and service-oriented roles brings strong value to data teams:
 
