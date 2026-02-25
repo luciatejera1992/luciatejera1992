@@ -7,6 +7,7 @@ I am a Junior Data Analyst focused on transforming data into clear insights that
 My background includes hands-on technical training and professional experience in demanding environments, which allows me to approach data projects with rigor, organization, and a practical mindset.
 
 I am currently seeking an opportunity as a Junior Data Analyst or BI Analyst where I can contribute, continue learning, and grow within a data-driven team.
+
 ---
 
 ##  Professional Profile
